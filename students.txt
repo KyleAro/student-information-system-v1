@@ -1,0 +1,27 @@
+kyle ,aro,22,1212,arokyle025@gmail.com,09970822029
+kyle,arro,22,1232,arokt,212342
+Student,Default,23,1234,Email User,Phone User
+Admin,Default,23,12345,Email User,Phone User
+rfedf,werwer,22,21,wete,235
+rgr,232fg,23,221,dfhdfh,dfhdhf
+sd,sdfg,2,221,qwr,24
+tes12,12test,22,1241,rrgwerw@gmail.com,534734734
+wg,rererg,23,21,ewrgrewg,rerger
+weg,twet,234,22221,ehrh,4336
+efsg,43432,232,222,erheh,rerter
+wqewqe,qweqwe,22,2214,qwfw,34532
+kyle,2aro,1234,22114,qwwqe,4121521
+wew,e243,21,23114,gwgw,45
+tw,rw,22,12412,feewew,43423
+
+2,2,2,1,2,2
+2,2,2,2,2,2
+2,2,2,2,2,2
+23223,2323232,3232323,232,232323,23232
+2,2,2,2,22,2
+22,222,22,222,2,222
+123,123,123,123,123,123
+23123,123123,123123,12,123,23
+23 35325,352,352,253,352,235
+klye,fe,23,211,ewfwef34,1231231
+1,11,1,1,1,1

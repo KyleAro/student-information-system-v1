@@ -1,0 +1,28 @@
+BUG INFORMATION
+
+1.SEARCH STUDENT INFORMATION	
+	the search student cannot access the allstudents list 
+	and does not print the information of students
+
+2. VERIFY STUDENT
+	AFTER THE MAXIMIZED ATTEMPTS WAS EXHAUSTED IT 
+	FORGETS THE INFORMATION ADDED SO IT DELETES THE INFO AND
+	CANNOT BE USED AGAIN EVEN IF THE PROGRAM HAS NOT BEEN CLOSED YET.
+
+BUG SOLUTIONS:
+1. SEARCH STUDENT INFORMATION
+	JUST SIMPLY  GET THE StudentIDSearcher class FILE AND USE IT AS 
+	searchstud and then just called the student that is valued 
+	as the student info and then in the main class we created a variable
+	that stores the searchstud function and hold the student args(which contains the student info class that has the allstudents list)
+2.VERIFY STUDENT
+	instead of returning the main funct, i returned to the verify student function so that it just loop back to itself instead of repeating the whole main process.
+
+BUG FIXED
+
+
+OCT-28-24
+
+1. Fixed the search student function
+2. Fixed the Verify student
+
